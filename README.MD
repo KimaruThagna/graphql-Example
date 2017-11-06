@@ -13,6 +13,8 @@ django-filter
 and thus, do pip install for each
 
 on the web graphiql interface, try the following examples which will do retreivals
+The main working is url is 127.0.0.1:8080/api
+View Client/urls.py for clarification
 
 {
   singleClient(id:"Y2xpZW50Tm9kZTox")
